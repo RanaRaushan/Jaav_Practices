@@ -1,1 +1,3 @@
-# Jaav_Practices
+# Java_Practices
+
+Basic learning of Java code
